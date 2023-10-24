@@ -26,20 +26,29 @@ sidebar:
           level: Native
 
         - idiom: English
-          level: Professional
+          level: B1
 
     interests:
       title: Interests
       info:
+        - item: Reading
+          link:
+
         - item: Swimming
           link:
 
         - item: Hiking
           link:
 
+        - item: Art galleries
+          link:
+          
 career-profile:
     title: Career Profile
     summary: |
+        Experienced mobile app developer with 4 years of industry experience.
+        Knowledge of software development lifecycle processes, coding, and architecture design.
+        Worked alongside designers and product managers on technical aspects of projects.
 
 education:
     title: Education
@@ -62,17 +71,20 @@ experiences:
         time: 2021 - Present
         company: Directum, Izhevsk
         details: |
-            Development of cross-platform applications for working with the company's main systems for the Android and iOS platforms.
+            Experience in developing cross-platform mobile applications to work 
+            with the company's systems for Android and iOS platforms. 
+            Best development practices: architecture design in accordance 
+            with clean architecture concepts, development through testing (ddd), agile.
             - MVVM architecture
-            - Stack: Xamarin Native
+            - Stack: Xamarin Native with custom libraries for MVVM bindings, DI, networking
 
       - role: Android Mobile Developer
         time: 2020 - 2021
-        company: Sturtup, Izhevsk
+        company: Startup, Izhevsk
         details: |
-            Android application for providing legal assistance.
-               - MVC architecture
-            - Stack:
+            Experience in developing an Android application for legal aid.
+            - MVC architecture
+            - Stack: Android SDK, Dagger 2, RxJava, Retrofit, Gson
 
 projects:
     title: Projects
@@ -81,5 +93,5 @@ projects:
     assignments:
       - title: VKFaceSearch
         link: "#hook"
-        tagline: "Mobile application for searching similar people by photo on the social network VKontakte."
+        tagline: "Mobile application to search for similar people by photo in the social network VKontakte."
 
