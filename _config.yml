@@ -1,7 +1,7 @@
 #Update all the sections by editing the data.yml file inside _data folder.
 
 # Site Settings
-title: Pisarevski World
+title: Vyacheslav Pisarevski – Mobile Developer
 url: 'htts://pisarevski.dev'
 
 #change it according to your repository name
@@ -10,8 +10,8 @@ url: 'htts://pisarevski.dev'
 
 description: Biography and projects
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
-theme_skin: blue # blue turquoise green berry orange ceramic
-chrome_mobile_color: '#1A7E92'
+theme_skin: forest # blue turquoise green berry orange ceramic
+# chrome_mobile_color: '#1A7E92'
 
 # Tracker
 analytics: G-HTCC1WN0ZR
