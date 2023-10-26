@@ -5,6 +5,10 @@
 <!-- custom js -->
 <script type="text/javascript" src="{{site.baseurl}}/assets/js/main.js"></script>
 
-{% if site.analytics %}
-  {% include analytics.html %}
+{% if site.analytics_google %}
+  {% include google-analytics.html %}
+{% endif %}
+
+{% if site.analytics_yandex %}
+  {% include yandex-analytics.html %}
 {% endif %}

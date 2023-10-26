@@ -13,8 +13,11 @@ description: Biography and projects
 theme_skin: forest # blue turquoise green berry orange ceramic
 # chrome_mobile_color: '#1A7E92'
 
-# Tracker
-analytics: G-HTCC1WN0ZR
+# Google tracker
+analytics_google: G-HTCC1WN0ZR
+
+# Yandex tracker
+analytics_yandex: 95374612
 
 # Sass/SCSS
 sass:
